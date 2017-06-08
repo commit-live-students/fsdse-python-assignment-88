@@ -1,4 +1,4 @@
-def solution(pd):
-    """
-    Enter your code here
-    """
+import pandas as pd
+
+def solution(pdf):
+    return pd.Series.tolist(pdf)
