@@ -1,4 +1,3 @@
+import pandas as pad
 def solution(pd):
-    """
-    Enter your code here
-    """
+    return pad.Series.tolist(pd)
