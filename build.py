@@ -1,4 +1,3 @@
 def solution(pd):
-    """
-    Enter your code here
-    """
+    l=list(pd.values)
+    return l
