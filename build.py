@@ -1,4 +1,6 @@
+import pandas as pd
 def solution(pd):
-    """
-    Enter your code here
-    """
+    return pd.tolist()
+# pandas.Series.tolist
+# Series.tolist()[source]
+# Convert Series to a nested list
