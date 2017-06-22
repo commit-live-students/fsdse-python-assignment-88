@@ -1,4 +1,9 @@
-def solution(pd):
-    """
-    Enter your code here
-    """
+import pandas as pd
+
+
+def solution(pds):
+    return list(pds.values)
+
+
+
+solution(pd.Series([1,2,3,4]))
