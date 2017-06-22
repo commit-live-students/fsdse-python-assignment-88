@@ -1,4 +1,3 @@
-def solution(pd):
-    """
-    Enter your code here
-    """
+import pandas as pd
+def solution(panda):
+    return pd.Series.tolist(panda)
