@@ -1,4 +1,5 @@
 def solution(pd):
-    """
-    Enter your code here
-    """
+    return pd.tolist()
+
+# solution(pd)
+# Output : [2, 4, 6, 8, 10]
