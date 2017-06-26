@@ -1,4 +1,5 @@
-def solution(pd):
-    """
-    Enter your code here
-    """
+def solution(panda):
+
+    pyt_list = list(panda)
+
+    return pyt_list
