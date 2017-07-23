@@ -1,4 +1,3 @@
 def solution(pd):
-    """
-    Enter your code here
-    """
+    ds = pd.tolist()
+    return ds
