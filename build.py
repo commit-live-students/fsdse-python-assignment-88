@@ -1,4 +1,5 @@
+import pandas
+
 def solution(pd):
-    """
-    Enter your code here
-    """
+    a = pandas.Series.tolist(pd)
+    return a
